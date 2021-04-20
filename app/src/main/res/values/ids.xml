@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_first_name" type="id" />
+    <item name="edt_last_name" type="id" />
+</resources>

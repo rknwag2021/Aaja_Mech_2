@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530139918622",
+    "project_id": "aaja-mech-2",
+    "storage_bucket": "aaja-mech-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530139918622:android:12257e3018087a749a190f",
+        "android_client_info": {
+          "package_name": "com.example.aaja_mech_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530139918622-g7ifqg8td3a27vru46drnge20e76gb68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBD_gKNSv1ehksWCz4bBWCjkZ8l6SvzlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530139918622-g7ifqg8td3a27vru46drnge20e76gb68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
